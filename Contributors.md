@@ -8,6 +8,8 @@
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Deepak Kumar](https://github.com/kumar-rocks)
 - [Divya Prakash](https://github.com/divyaprakashdp)
+- [ZM](https://github.com/ZM)
+- [emmydev9](https://github.com/emmydev9)
 - [Ayan Web](https://github.com/Ayan-web)
 - [Anakhe Ajayi] (https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
@@ -303,6 +305,8 @@
 - [Robin Carey](https://github.com/robs179)
 - [yousef]
 - [botoko]
+- [Abhished Panda](https://github.com/Abhished Panda)
+- [name](https://github.com/name)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
